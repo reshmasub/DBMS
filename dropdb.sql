@@ -1,0 +1,10 @@
+drop index title_index;
+drop index countries_index;
+drop index genre_index;
+drop index locations_index;
+drop table movie_genres;
+drop table movie_locations;
+drop table movie_tags;
+drop table movie_countries;
+drop table tags;
+drop table movies;
